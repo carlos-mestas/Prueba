@@ -17,7 +17,6 @@ public class Prueba_Github {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola");
-        System.out.println("1");
         System.out.println("2");
         //Version 1
         System.out.println("Hola, soy Lisany! estoy editando tu código");
